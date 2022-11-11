@@ -1,2 +1,2 @@
-console.log("Hello world!")
-alert("What a nice job!")
+console.log("hello people ..");
+alert("what a beautifull world!");
